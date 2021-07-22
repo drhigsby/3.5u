@@ -4,4 +4,4 @@
 
  3.5u footprints for KICAD. Download and add the .kicad_mod files to your default KICAD footprint library.
 
- * Maintainer: H. Bond [H. Bond](https://github.com/drhigsby)
+ * Maintainer: [H. Bond](https://github.com/drhigsby)
